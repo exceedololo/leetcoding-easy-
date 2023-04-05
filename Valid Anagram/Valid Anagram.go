@@ -1,4 +1,4 @@
-package awesomeProject1
+package Valid_Anagram
 
 func isAnagram(s string, t string) bool {
 	if len(s) != len(t) {
